@@ -32,7 +32,6 @@ Here are some commands that you need to know
 
     help
     ? ?
-    take all
     look
     unlock grate with keys
     throw axe at dwarf
@@ -71,7 +70,7 @@ Getting In to the Caves
     take the cage
     Go west again
     turn on the lamp
-    Grab the rod and say XYZZY. POOF you're back in the well house! Say XYZZY again to return to the Debris Room.
+    Take the rod and say XYZZY. POOF you're back in the well house! Say XYZZY again to return to the Debris Room.
     Go west to the sloping room
     Drop the rod
     Go west to the Orange River Chamber
