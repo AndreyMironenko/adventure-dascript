@@ -3302,8 +3302,8 @@ def initplay()
     limit = 100
     tally = 15
     tally2 = 0
-    newloc = 3
-    loc = 1; oldloc = 1; oldloc2 = 1
+    newloc = 1
+    loc = 3; oldloc = 3; oldloc2 = 3
     knfloc = 0
     chloc = 114
     chloc2 = 140
